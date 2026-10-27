@@ -11,5 +11,5 @@ description = "Bounded MIME message creation and decoding"
 [dependencies]
 zixcel-mail-core.workspace = true
 serde.workspace = true
-mail-builder = "1.0.0"
+mail-builder = "2.0.0"
 mailparse = "0.18.0"
