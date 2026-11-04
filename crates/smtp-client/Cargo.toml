@@ -16,5 +16,5 @@ tokio-rustls.workspace = true
 serde.workspace = true
 serde_json.workspace = true
 sha2.workspace = true
-mail-send = { version = "0.6.2", default-features = false, features = ["ring", "tls12"] }
+mail-send = { version = "0.7.0", default-features = false, features = ["ring", "tls12"] }
 libc = "0.2.187"
